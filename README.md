@@ -4,7 +4,7 @@
 🔭 Trabalho como fullstack com **Node.js** e **Vue.js**<br>
 👩‍🏫 Professora na [{reprograma}](https://reprograma.com.br/) e no [minasprogramam](https://minasprogramam.com/)<br>
 👉 Conhecimentos básicos em **Angular** e **Java**<br>
-🌱 Estou aprendendo **Typescript** e **React** <br>
+🌱 Estou aprendendo **Typescript**, **React** e reaprendendo muitas outras coisas! <br>
 😄 Pronouns: ela/dela
 
 ##
