@@ -1,11 +1,11 @@
 ### Oi, que bom te ver por aqui! Eu sou a Paula <img height="32" src="https://github.com/itsalle/itsalle/raw/main/images/Hi.gif">
 ##
 
-- 🔭 Trabalho como fullstack com **Node.js** e **Vue.js**
-- 👩‍🏫 Professora na [{reprograma}](https://reprograma.com.br/) e no [minasprogramam](https://minasprogramam.com/)
-- 👉 Conhecimentos básicos em **Angular** e **Java**
-- 🌱 Estou aprendendo **Typescript** e **React** 
-- 😄 Pronouns: ela/dela
+🔭 Trabalho como fullstack com **Node.js** e **Vue.js**<br>
+👩‍🏫 Professora na [{reprograma}](https://reprograma.com.br/) e no [minasprogramam](https://minasprogramam.com/)<br>
+👉 Conhecimentos básicos em **Angular** e **Java**<br>
+🌱 Estou aprendendo **Typescript** e **React** <br>
+😄 Pronouns: ela/dela
 
 ##
 ### Linguagens e ferramentas:
