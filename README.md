@@ -1,4 +1,4 @@
-### Oi, que bom te ver por aqui! Eu sou a Paula 👋
+### Oi, que bom te ver por aqui! Eu sou a Paula <img height="32" src="https://github.com/itsalle/itsalle/raw/main/images/Hi.gif">
 ##
 
 - 🔭 Trabalho como fullstack com **Node.js** e **Vue.js**
