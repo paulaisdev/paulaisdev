@@ -1,18 +1,13 @@
 ### Oi, que bom te ver por aqui! Eu sou a Paula 👋
-<!--
-for english, go to the end of the page 👇
--->
-<!--
-**itsalle/itsalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+##
 
 - 🔭 Trabalho como fullstack com **Node.js** e **Vue.js**
 - 👩‍🏫 Professora na [{reprograma}](https://reprograma.com.br/) e no [minasprogramam](https://minasprogramam.com/)
 - 👉 Conhecimentos básicos em **Angular** e **Java**
 - 🌱 Estou aprendendo **Typescript** e **React** 
 - 😄 Pronouns: ela/dela
+
+##
 
  <div>
   <a href="https://github.com/itsalle">
