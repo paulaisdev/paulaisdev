@@ -1,14 +1,15 @@
-### Oi, que bom te ver por aqui! Eu sou a Paula <img height="32" src="https://github.com/itsalle/itsalle/raw/main/images/Hi.gif">
+### Hi there, nice to meet you! I'm Paula <img height="32" src="https://github.com/itsalle/itsalle/raw/main/images/Hi.gif">
 ##
 
-🔭 Trabalho como fullstack com **Node.js** e **Vue.js**<br>
-👩‍🏫 Professora na [{reprograma}](https://reprograma.com.br/) e no [minasprogramam](https://minasprogramam.com/)<br>
-👉 Conhecimentos básicos em **Angular** e **Java**<br>
-🌱 Estou aprendendo **Typescript**, **React** e reaprendendo muitas outras coisas! <br>
-😄 Pronouns: ela/dela
+🔭 Work as a fullstack developer 
+👉 Main stack is **Node.js** e **Vue.js**<br>
+👩‍🏫 Teacher at [{reprograma}](https://reprograma.com.br/), [minasprogramam](https://minasprogramam.com/)<br> and [Tera](https://somostera.com/)
+👉 Basic knowledge of **Angular** e **Java**<br>
+🌱 Current learning **Typescript**, **React** and a lot more!! <br>
+😄 Pronouns: she/her
 
 ##
-### Linguagens e ferramentas:
+### Languagens and tools:
 <div style="display: inline_block">
   <img align="center" alt="Logo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Logo-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -22,7 +23,7 @@
   <img align="center" alt="Logo-Google-Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 </div>
   
-### Você me encontra por aqui:
+### You can find me here:
  <div> 
   <a href="https://www.twitter.com/paulaisdev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="mailto:paulaalemand@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
