@@ -3,7 +3,7 @@
 
 🔭 Work as a fullstack developer 
 👉 Main stack is **Node.js** e **Vue.js**<br>
-👩‍🏫 Teacher at [{reprograma}](https://reprograma.com.br/), [minasprogramam](https://minasprogramam.com/)<br> and [Tera](https://somostera.com/)
+👩‍🏫 Teacher at [{reprograma}](https://reprograma.com.br/), [minasprogramam](https://minasprogramam.com/) and [Tera](https://somostera.com/)<br>
 👉 Basic knowledge of **Angular** e **Java**<br>
 🌱 Current learning **Typescript**, **React** and a lot more!! <br>
 😄 Pronouns: she/her
