@@ -37,10 +37,3 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsalle&layout=compact&langs_count=7&theme=dracula"/>
    <a href="https://app.daily.dev/itsalle"><img src="https://github.com/itsalle/itsalle/blob/main/devcard.svg" width="200" alt="Paula Allemand's Dev Card"/></a>
 </div>
- 
-##
-<div>
- 
-  ![Snake animation](https://github.com/itsalle/itsalle/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
