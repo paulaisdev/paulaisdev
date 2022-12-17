@@ -32,7 +32,7 @@
  ### Github stats and daily dev card:
 <div>
   <a href="https://github.com/itsalle">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=itsalle&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsalle&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=paulaisdev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaisdev&layout=compact&langs_count=7&theme=dracula"/>
    <a href="https://app.daily.dev/itsalle"><img src="https://github.com/itsalle/itsalle/blob/main/devcard.svg" width="200" alt="Paula Allemand's Dev Card"/></a>
 </div>
