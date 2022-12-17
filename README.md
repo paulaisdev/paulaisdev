@@ -1,11 +1,10 @@
 ### Hi there, nice to meet you! I'm Paula <img height="32" src="https://github.com/itsalle/itsalle/raw/main/images/Hi.gif">
 ##
 
-🔭 Work as a fullstack developer 
-👉 Main stack is **Node.js** e **Vue.js**<br>
+🔭 Work as a fullstack developer<br>
+🫀 Love **Javascript** and **Python**<br>
 👩‍🏫 Teacher at [{reprograma}](https://reprograma.com.br/), [minasprogramam](https://minasprogramam.com/) and [Tera](https://somostera.com/)<br>
-👉 Basic knowledge of **Angular** e **Java**<br>
-🌱 Current learning **Typescript**, **React** and a lot more!! <br>
+🌱 Current learning <br>
 😄 Pronouns: she/her
 
 ##
