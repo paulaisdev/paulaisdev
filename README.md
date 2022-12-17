@@ -1,12 +1,13 @@
 ### Hi there, nice to meet you! I'm Paula <img height="32" src="https://github.com/itsalle/itsalle/raw/main/images/Hi.gif">
+
 ##
  <div> 
   <a href="https://www.twitter.com/paulaisdev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="mailto:paulaisdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulaallemand" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-##
 
+##
 🔭 Work as a fullstack developer<br>
 🫀 Love **Javascript** and **Python**<br>
 👩‍🏫 Teacher at [{reprograma}](https://reprograma.com.br/), [minasprogramam](https://minasprogramam.com/) and [Tera](https://somostera.com/)<br>
@@ -25,9 +26,4 @@
   <img align="center" alt="Logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Logo-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Logo-Google-Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-</div>
- 
- ### Daily dev card:
-<div>
-   <a href="https://app.daily.dev/itsalle"><img src="https://github.com/itsalle/itsalle/blob/main/devcard.svg" width="200" alt="Paula Allemand's Dev Card"/></a>
 </div>
