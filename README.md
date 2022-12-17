@@ -29,10 +29,7 @@
   <a href="https://www.linkedin.com/in/paulaalemand" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
  
- ### Github stats and daily dev card:
+ ### Daily dev card:
 <div>
-  <a href="https://github.com/itsalle">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=paulaisdev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaisdev&layout=compact&langs_count=7&theme=dracula"/>
-   <a href="https://app.daily.dev/itsalle"><img src="https://github.com/itsalle/itsalle/blob/main/devcard.svg" width="150" alt="Paula Allemand's Dev Card"/></a>
+   <a href="https://app.daily.dev/itsalle"><img src="https://github.com/itsalle/itsalle/blob/main/devcard.svg" width="200" alt="Paula Allemand's Dev Card"/></a>
 </div>
