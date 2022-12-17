@@ -4,8 +4,8 @@
 🔭 Work as a fullstack developer<br>
 🫀 Love **Javascript** and **Python**<br>
 👩‍🏫 Teacher at [{reprograma}](https://reprograma.com.br/), [minasprogramam](https://minasprogramam.com/) and [Tera](https://somostera.com/)<br>
-🌱 Current learning <br>
-😄 Pronouns: she/her
+🤩 Crazy about learning new things <br>
+
 
 ##
 ### Languagens and tools:
@@ -34,5 +34,5 @@
   <a href="https://github.com/itsalle">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=paulaisdev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaisdev&layout=compact&langs_count=7&theme=dracula"/>
-   <a href="https://app.daily.dev/itsalle"><img src="https://github.com/itsalle/itsalle/blob/main/devcard.svg" width="200" alt="Paula Allemand's Dev Card"/></a>
+   <a href="https://app.daily.dev/itsalle"><img src="https://github.com/itsalle/itsalle/blob/main/devcard.svg" width="150" alt="Paula Allemand's Dev Card"/></a>
 </div>
